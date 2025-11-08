@@ -1,0 +1,23 @@
+zenith_vault/
+│
+├── index.html
+├── package.json
+├── vite.config.js
+├── tailwind.config.js
+├── postcss.config.js
+├── src/
+│   ├── main.jsx
+│   ├── App.jsx
+│   ├── index.css
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Footer.jsx
+│   │   └── Hero.jsx
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── About.jsx
+│   │   ├── Collections.jsx
+│   │   ├── Contact.jsx
+│   │   └── NotFound.jsx
+│   └── assets/
+│       └── logo.jpg   ← (yahan tumhara diya hua logo daalna)
